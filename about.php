@@ -15,7 +15,7 @@ margin-right:8%;
 <body>
 <br><br><br>
 <div id="video">
-<video style="position:relative;border:2px solid black; border-radius:2%; width:100%; height:50%;"controls autoplay muted poster="aboutimg.jpg">
+<iframe src="https://www.facebook.com/raazqwe/videos/1133200996726480/?__mref=message_bubble"></iframe>
 <source src="vid.mp4" type="video/mp4">
 </video>
 </div>
